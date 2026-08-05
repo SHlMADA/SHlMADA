@@ -28,5 +28,5 @@
 <div align="center">
 
 
-  <p align="center">  ${\textsf{\color{#806261}ㅤ ⑅ ݁   a j l s s  ㅤ}}$
+  <p align="center">  ${\textsf{\color{#6e5756}ㅤ ⑅ ݁   Remaking this soon  ㅤ}}$
 
