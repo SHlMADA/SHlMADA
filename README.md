@@ -28,6 +28,5 @@
 <div align="center">
 
 
- <p align="center"> ${\textsf{\color{#584545}  ݁ 𓏼  ✿⡴ ㅤㅤTonyㅤ  ₒᵤ ㅤ other kin names ㅤㅤ𓎡 ݁ ྀ  ݂۫ }}$  </sub>
- <sub>
-  <p align="center"> ${\textsf{\color{#564443}ㅤ ⑅ ݁ ˳ 𐂯ྀིㅤㅤ  『   a j l s s ♡   』ㅤㅤ  ۶ེ༹༷♡︎ᣟ݂ㅤㅤ}}$  </sub> 
+  <p align="center">  ${\textsf{\color{#806261}ㅤ ⑅ ݁   a j l s s  ㅤ}}$
+
