@@ -28,5 +28,6 @@
 <div align="center">
 
 
-  <p align="center">  ${\textsf{\color{#6e5756}ㅤ ⑅ ݁   Remaking this soon  ㅤ}}$
+  <p align="center">  ${\textsf{\color{#6e5756}ㅤ ⑅ ݁  @charactersofpt ㅤ}}$
+  <p align="center">  ${\textsf{\color{#6e5756}ㅤ  ponytown’s Hanzo Shimada ㅤ}}$
 
